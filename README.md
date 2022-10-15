@@ -1,4 +1,10 @@
-## Ola! eu sou Guilherme Freitas.
+<p align="center">
+4
+ 
+5
+</p align="center">
+6
+<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
 
 <div align="center">
   <a href="https://github.com/FREITASGUILHERME">
