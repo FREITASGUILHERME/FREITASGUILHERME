@@ -1,7 +1,7 @@
 <p align="center">
 
 </p align="center">
-<img src="" />
+<img src="https://github.com/FREITASGUILHERME/FREITASGUILHERME/blob/b65a2d58910ef3ab13132bc600c9bd7494b3793d/Imagens/1%20-%20Apresenta%C3%A7%C3%A3o.png" />
 
 <div align="center">
   <a href="https://github.com/FREITASGUILHERME">
